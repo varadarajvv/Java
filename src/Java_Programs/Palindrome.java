@@ -6,7 +6,7 @@ public class Palindrome {
 	// Compare Reversed String with the Original String
 	public static void main(String args[]) {
 
-		String original = "GADAG";
+		String original = "MADAM";
 		String reverse = ""; // Empty String
 
 		for (int i = original.length() - 1; i >= 0; i--) {
